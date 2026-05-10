@@ -15,3 +15,4 @@ A Python reference backend for Alpaca's Broker API utilizing FastAPI.
 2. Navigate to the root of this project
 3. Run `uvicorn backend.main:app --reload`
 4. Server will now be running on `http://127.0.0.1:8000`
+5. Test on your side.
